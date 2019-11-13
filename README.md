@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
-
+13/11/2019
 ### Project Title
-Replace the Project Title
+MHM-Bike-share Data Analysis Project
 
 ### Description
-Describe what your project is about and what it does
+Run statistics on multiple data pools related to bicycle sharing.
+
+
 
 ### Files used
-Include the files used
+new_york_city.csv
+
+chicago.csv
+
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Thanks to Udacity for giving me this opportunity to create this wonderful project.
